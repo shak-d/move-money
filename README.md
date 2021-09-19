@@ -20,5 +20,5 @@ THe server initializes 2 test account on start-up with id 0 and 1.
 5. Change property `spring.datasource.url`, replace `bank_demo`with the name of the database created
 6. Change property `spring.datasource.username` to the username of the user you created
 7. Change property `spring.datasource.password` to the password of the user you created
-8. Run `DemoApplication.java` to start the server
+8. Run `src/main/java/bank/demo/DemoApplication.java` to start the server
 
